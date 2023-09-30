@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zrc.github.io</id>
+    <title>ZRC的学习记录</title>
+    <updated>2023-09-30T10:26:09.335Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zrc.github.io"/>
+    <link rel="self" href="https://zrc.github.io/atom.xml"/>
+    <subtitle>记得常来</subtitle>
+    <logo>https://zrc.github.io/images/avatar.png</logo>
+    <icon>https://zrc.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, ZRC的学习记录</rights>
+    <entry>
+        <title type="html"><![CDATA[EXCEL学习记录]]></title>
+        <id>https://zrc.github.io/post/excel-xue-xi-ji-lu/</id>
+        <link href="https://zrc.github.io/post/excel-xue-xi-ji-lu/">
+        </link>
+        <updated>2023-09-30T09:46:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1-利用宏工具进行高级筛选">1 利用宏工具进行高级筛选</h1>
+<pre><code>将筛选中的高级筛选功能，利用宏工具进行录制，并将图形指定该宏，实现自动化的功能。
+
+1 需要有两个表，数据表以及条件表，这两个表的表头标题必须是一致的。
+
+2 在工具-开发工具-录制新宏。
+
+3 打开数据中的高级筛选，依次填入数据表和条件表，确定之后，结束录制新宏。
+
+4 选择一个图像，右键指定宏，就可以。
+
+只需要，点击该图形，就可以自动化筛选。
+</code></pre>
+<p><img src="https://zrc.github.io/post-images/1696067263645.png" alt="" loading="lazy"><br>
+<img src="https://zrc.github.io/post-images/1696067266812.png" alt="" loading="lazy"><br>
+<img src="https://zrc.github.io/post-images/1696067269415.png" alt="" loading="lazy"></p>
+<h1 id="2">2</h1>
+]]></content>
+    </entry>
+</feed>
